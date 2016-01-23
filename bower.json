@@ -1,0 +1,25 @@
+{
+  "name": "angular-spa",
+  "authors": [
+    "cyper <345343747@qq.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.6",
+    "font-awesome": "~4.5.0",
+    "angular": "~1.4.9",
+    "angular-route": "~1.4.9"
+  }
+}
